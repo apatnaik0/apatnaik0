@@ -7,7 +7,7 @@
 ---
 
 Welcome to my GitHub!
-I'm a current graduate student in **Data Science** at **[UC San Diego](https://ucsd.edu) - [Halıcıoğlu Data Science Institute (HDSI)](https://datascience.ucsd.edu)**, with **3+** years of prior experience as an **Associate Data Scientist** at **[Optum - UHG](https://www.optum.com/en/)**. My work has spanned both **healthcare** and **enterprise applications** - from building precise **AI models** for predicting appeal intent in claims processing, to developing solutions for employee access risk prediction and access recommendation in corporate environments. I’m passionate about applying **data science** to real-world problems, and enjoy building systems that bridge the gap between research and impactful applications in **predictive modeling**, **data analysis**, and **intelligent systems**.
+I'm a current graduate student in **Data Science** at **[UC San Diego](https://ucsd.edu) - [Halıcıoğlu Data Science Institute (HDSI)](https://datascience.ucsd.edu)**, with **3+** years of prior experience as an **Associate Data Scientist** at **[Optum - UHG](https://www.optum.com/en/)**. My work has spanned both **healthcare** and **enterprise applications** - from building precise **AI models** for predicting appeal intent in claims processing, to developing solutions for employee access risk prediction and access recommendation in corporate environments. I’m passionate about applying **machine learning** to real-world problems, and enjoy building systems that bridge the gap between research and impactful applications in **predictive modeling**, **data analysis**, and **intelligent systems**.
 
 ---
 
